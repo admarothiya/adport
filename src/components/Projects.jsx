@@ -6,7 +6,7 @@ function Projects() {
       title: "Rock Paper Scissors Game",
       description:
         "A fun and interactive Rock Paper Scissors game built with JavaScript. Play against the computer and test your luck with smooth animations and instant results.",
-      image: "/public/rps.png",
+      image: "/rps.png",
       liveLink: "https://python-2r54.onrender.com",
       codeLink: "#",
       badge: "Production-Level Skills Demo",
@@ -16,7 +16,7 @@ function Projects() {
       title: "Fake Headlines Generator",
       description:
         "Generate fake news headlines using Python and NLP. This project showcases text generation and natural language processing techniques in action.",
-      image: "/public/fake-headlines-generator.jpg",
+      image: "/fake-headlines-generator.jpg",
       liveLink: "https://fake-headline-generator.onrender.com",
       codeLink: "#",
       badge: "In Development",
