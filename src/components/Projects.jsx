@@ -26,7 +26,7 @@ function Projects() {
       title: "StarWay Collections",
       description:
         "College capstone project - Complete e-commerce solution with payment gateway, user authentication, and admin dashboard. Demonstrates production-level development skills.",
-      image: "/assets/ecommerce-platform.png",
+      image: "/src/assets/we.jpg",
       liveLink: "#",
       codeLink: "#",
       badge: "Featured Project",
