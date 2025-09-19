@@ -1,8 +1,8 @@
-import profilePic from "../assets/we.jpg"; 
+import profilePic from "../assets/ws.jpg"; 
 
 function Home() {
   return (            
-    <section className="relative flex flex-col items-center justify-center min-h-screen pt-32 md:pt-26 px-6 py-12 bg-red-200 dark:bg-blue-900 text-gray-900 dark:text-gray-100 overflow-hidden">
+    <section className="relative flex flex-col items-center justify-center min-h-screen pt-32 md:pt-26 px-6 py-12 bg-gradient-to-br from-[#2a2d6a] via-[#3d3a52] to-[#2b2d42] dark:text-gray-100 overflow-hidden">
       
       {/* "Available for Hiring" Tag */}
       <div className="absolute top-5 right-5 flex items-center bg-green-500 text-white text-sm font-semibold px-4 py-1.5 rounded-full shadow-lg z-10">
@@ -54,7 +54,7 @@ function Home() {
 
           {/* Right Side: Profile Picture */}
           <div className="relative flex-shrink-0 mt-10 md:mt-0">
-            <div className="w-72 h-72 lg:w-80 lg:h-80 rounded-full border-8 border-white shadow-2xl overflow-hidden mx-auto">
+            <div className="w-72 h-65 lg:w-80 lg:h-80 rounded-full border-8 border-white shadow-2xl overflow-hidden mx-auto">
               <img
                 src={profilePic}
                 alt="Aditya Kumawat"
