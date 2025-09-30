@@ -138,7 +138,7 @@ const EducationPage = () => {
             Let's Connect
           </a>
           <a
-            href="/resume.pdf"
+            href="/ad.pdf"
             download
             className="bg-white text-blue-900 hover:bg-gray-100 px-4 py-2 rounded transition inline-block"
           >

@@ -39,7 +39,7 @@ function Home() {
                 Hire Me Now
               </a>
               <a
-                href="/resume.pdf"
+                href="/ad.pdf"
                 download
                 className="bg-gray-700 hover:bg-gray-600 text-white font-bold px-7 py-3 rounded-lg shadow-md transition-transform transform hover:scale-105"
               >
