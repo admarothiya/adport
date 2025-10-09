@@ -34,7 +34,7 @@ function Projects() {
         "ADCMS is a modern web application built using React and Vite, designed to provide a fast, responsive, and user-friendly experience.",
       image: "/download.png",
       liveLink: "https://adcms.netlify.app/",
-      codeLink: "#",
+      codeLink: "https://github.com/admarothiya/aditya",
       badge: "Featured Project",
       featured: true,
       tech: ["React", "Node.js", "MongoDB"],
