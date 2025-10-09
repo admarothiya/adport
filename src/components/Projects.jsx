@@ -32,7 +32,7 @@ function Projects() {
       title: "CMS",
       description:
         "ADCMS is a modern web application built using React and Vite, designed to provide a fast, responsive, and user-friendly experience.",
-      image: "/download.jpg",
+      image: "/download.png",
       liveLink: "https://adcms.netlify.app/",
       codeLink: "#",
       badge: "Featured Project",
