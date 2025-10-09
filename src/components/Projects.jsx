@@ -28,18 +28,18 @@ function Projects() {
       tech: ["Python", "NLP", "Flask"],
       color: "from-purple-500 to-pink-500"
     },
-  //   {
-  //     title: "Dosedefence",
-  //     description:
-  //       "A comprehensive healthcare management system designed to streamline patient care, appointment scheduling, and medical record keeping for clinics and hospitals.",
-  //     image: "/download.jpg",
-  //     liveLink: "https://dosedefence.com/",
-  //     codeLink: "#",
-  //     badge: "Featured Project",
-  //     featured: true,
-  //     tech: ["React", "Node.js", "MongoDB"],
-  //     color: "from-green-500 to-emerald-500"
-  //   },
+    {
+      title: "CMS",
+      description:
+        "ADCMS is a modern web application built using React and Vite, designed to provide a fast, responsive, and user-friendly experience.",
+      image: "/download.jpg",
+      liveLink: "https://adcms.netlify.app/",
+      codeLink: "#",
+      badge: "Featured Project",
+      featured: true,
+      tech: ["React", "Node.js", "MongoDB"],
+      color: "from-green-500 to-emerald-500"
+    },
   ];
 
   return (
