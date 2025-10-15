@@ -34,7 +34,7 @@ const Contact = () => {
   };
 
   return (
-    <section className="relative flex flex-col items-center justify-center min-h-screen pt-32 md:pt-26 px-6 py-12 bg-gradient-to-b from-gray-800 to-blue-900 text-gray-100 overflow-hidden">
+    <section className="relative flex flex-col items-center justify-center min-h-screen pt-32 md:pt-26 px-6 py-12  bg-slate-950 text-gray-100 overflow-hidden">
 
       {/* Badge */}
       <div className="text-center mb-4">
